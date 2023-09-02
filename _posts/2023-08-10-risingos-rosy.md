@@ -5,7 +5,7 @@ date: 2023-08-10 23:15:00 +0700
 categories: custom rom
 author: 'Kanarimalt'
 ---
-![RisingOS Banner](/assets/images/banner/devaraka.png)
+![RisingOS Banner](/assets/images/banner/devaraka.jpg)
 
 {% include disclaimer.md %}
 
@@ -38,7 +38,7 @@ author: 'Kanarimalt'
 ![Control Panel](/assets/images/screenshots/2023/August/10/risingos_rosy_2.png){: width="240"}{: height="540"}
 ![Settings 1](/assets/images/screenshots/2023/August/10/risingos_rosy_3.png){: width="240"}{: height="540"}
 ![Settings 2](/assets/images/screenshots/2023/August/10/risingos_rosy_4.png){: width="240"}{: height="540"}
-![Settings About Phone](/assets/images/screenshots/2023/August/25/risingos_rosy_5.png){: width="240"}{: height="540"}
+![Settings About Phone](/assets/images/screenshots/2023/August/10/risingos_rosy_5.png){: width="240"}{: height="540"}
 
 **Download**
 
