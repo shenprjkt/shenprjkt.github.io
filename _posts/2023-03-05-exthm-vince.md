@@ -47,7 +47,7 @@ author: 'Kanarimalt & Hendri'
 ![Home Screen](/assets/images/screenshots/2023/Maret/05/exthm-1.png){: width="240"}{: height="540"}
 ![Launcher](/assets/images/screenshots/2023/Maret/05/exthm-2.png){: width="240"}{: height="540"}
 ![Control Panel](/assets/images/screenshots/2023/Maret/05/exthm-3.png){: width="240"}{: height="540"}
-![Settings About Phone](/assets/images/screenshots/2023/Maret/05/exthm-4.png){: width="240"}{: height="540"}
+![Settings About Phone](/assets/images/screenshots/2023/Maret/05/exthm4.png){: width="240"}{: height="540"}
 
 **Download**
 
