@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Maret] Exthm 13.0 For Redmi 5 Plus Port"
+title: "[March] Exthm 13.0 For Redmi 5 Plus Port"
 date: 2023-03-05 23:15:00 +0700
 categories: custom rom
 author: 'Kanarimalt & Hendri'
