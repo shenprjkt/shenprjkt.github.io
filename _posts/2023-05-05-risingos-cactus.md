@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Mei] RisingOS 13.0 For Redmi 6a SGSI"
+title: "[May] RisingOS 13.0 For Redmi 6a SGSI"
 date: 2023-05-05 11:27:00 +0700
 categories: custom rom
 author: 'Aquachan20'
