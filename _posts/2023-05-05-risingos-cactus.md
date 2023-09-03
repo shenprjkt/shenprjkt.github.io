@@ -39,12 +39,12 @@ author: 'Aquachan20'
 
 **Screenshots**
 
-![Home Screen](/assets/images/screenshots/2023/Mei/05/rising-1.png){: width="240"}{: height="540"}
-![Control Panel](/assets/images/screenshots/2023/Mei/05/rising-2.png){: width="240"}{: height="540"}
-![Settings 1](/assets/images/screenshots/2023/Mei/05/rising-3.png){: width="240"}{: height="540"}
-![Settings 2](/assets/images/screenshots/2023/Mei/05/rising-4.png){: width="240"}{: height="540"}
-![Settings About Phone 1](/assets/images/screenshots/2023/Mei/05/rising-5.png){: width="240"}{: height="540"}
-![Settings About Phone 2](/assets/images/screenshots/2023/Mei/05/rising-6.png){: width="240"}{: height="540"}
+![Home Screen](/assets/images/screenshots/2023/Mei/05/rising-1.jpg){: width="240"}{: height="540"}
+![Control Panel](/assets/images/screenshots/2023/Mei/05/rising-2.jpg){: width="240"}{: height="540"}
+![Settings 1](/assets/images/screenshots/2023/Mei/05/rising-3.jpg){: width="240"}{: height="540"}
+![Settings 2](/assets/images/screenshots/2023/Mei/05/rising-4.jpg){: width="240"}{: height="540"}
+![Settings About Phone 1](/assets/images/screenshots/2023/Mei/05/rising-5.jpg){: width="240"}{: height="540"}
+![Settings About Phone 2](/assets/images/screenshots/2023/Mei/05/rising-6.jpg){: width="240"}{: height="540"}
 
 **Download**
 
