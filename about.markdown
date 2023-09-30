@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/Arimakana-Lab/Arimakana-banner/blob/wip-4.19-vince/20230902_201601.jpg?raw=true">
-
-### Project Kana
-Project Kana is where we build, test new things and fixes. we have a goal to update our old toolset to keep it alive and we also have a big goal which is to build our own AOSP source currently a work in progress.
+### LibraGeng
+LibraGeng is where we build, test new things and fixes. we have a goal to update our old toolset to keep it alive and we also have a big goal which is to build our own AOSP source currently a work in progress.
 
 ### 📱 Devices Support
 ![Xiaomi Redmi Note 3 Pro](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%203%20Pro-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
