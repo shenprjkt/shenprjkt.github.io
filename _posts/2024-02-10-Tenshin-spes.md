@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Feb] Tenshin Nightmare For Redmi Note 11"
-date: 2024-02-10 23:15:00 +0700
+date: 2024-02-10 10:15:00 +0700
 categories: custom kernel
 author: 'Mahiru 30'
 ---
@@ -10,7 +10,7 @@ author: 'Mahiru 30'
 {% include disclaimer.md %}
 
 **DEVICES :** SPES/SPESN<br>
-**BUILD DATE :** 10 febuary 2024<br>
+**BUILD DATE :** 10 FEBUARY 2024<br>
 
 **Changelogs**
 <ol>
