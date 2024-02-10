@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "[Feb] Tenshin Kernel Nightmare For Redmi Note 11"
+title: "[Feb] Tenshin Nightmare For Redmi Note 11"
 date: 2024-02-10 23:15:00 +0700
 categories: custom kernel
 author: 'Mahiru 30'
 ---
-![Exthm Banner](/assets/images/banner/tenshinv3.jpg)
+![Tenshin Banner](/assets/images/banner/tenshinv3.jpg)
 
 {% include disclaimer.md %}
 

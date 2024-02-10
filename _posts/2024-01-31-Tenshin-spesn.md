@@ -5,7 +5,7 @@ date: 2024-01-05 23:15:00 +0700
 categories: custom kernel
 author: 'Mahiru 30'
 ---
-![Exthm Banner](/assets/images/banner/tenshinv2.jpg)
+![Tenshin Banner](/assets/images/banner/tenshinv2.jpg)
 
 {% include disclaimer.md %}
 
